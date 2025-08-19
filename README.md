@@ -64,5 +64,13 @@
 ---
 
 ✨ *"I truly believe that everything will work out in the end."* ✨
-![Fatma Nur's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatmanurkarakoc99&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanurkarakoc99&langs_count=10&layout=compact&theme=radical)
+## 📊 GitHub Stats
+
+<!-- GitHub Stats -->
+![Fatma Nur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatmanurkarakoc99&show_icons=true&theme=tokyonight)
+
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanurkarakoc99&layout=compact&theme=tokyonight)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=fatmanurkarakoc99&theme=tokyonight&border_radius=10)
