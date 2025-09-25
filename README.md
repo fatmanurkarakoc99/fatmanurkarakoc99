@@ -1,14 +1,17 @@
-# Hi 👋, I'm Fatma Nur 
+<h1 align="center">👋 Hi, I'm Fatma Nur</h1>  
+<h3 align="center">🚀 Data Scientist | AI Enthusiast | ML & DL Explorer</h3>  
 
-
-🚀 Passionate **Data Scientist** and **AI Enthusiast** with a strong interest in **Machine Learning, Deep Learning, Artificial Intelligence, and Generative AI**.  
-🎓 Graduated in **Geomatics Engineering**, currently pursuing a **Master's in Data Science**.  
-🌱 I’m currently improving my skills in **Data Science** and **GenAI**.  
-💡 I love building intelligent systems and data-driven solutions.  
-📫 How to reach me fatmanurkarakoc99543@gmail.com
 ---
 
-## 🛠️ Languages and Tools
+### 📝 About Me  
+🎓 Geomatics Engineering graduate, currently pursuing a **Master’s in Data Science**.  
+💡 Passionate about **Machine Learning, Deep Learning, Generative AI, and GIS applications**.  
+📊 Interested in combining **AI + Data Science** to solve real-world problems.  
+🌱 Always learning and exploring new tools in the data ecosystem.  
+
+---
+
+### 🔧 Languages & Tools 
 <p align="left">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -54,7 +57,7 @@
 
 ---
 
-## 🌐 Connect with me
+### 🌐 Connect with Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/fatma-nur-karako%C3%A7-426a4723b/)  
 🔗 [Kaggle](https://www.kaggle.com/fatmanurkarakoc)  
 🔗 [Medium](https://medium.com/@fatmanurkarakoc99543)
@@ -64,7 +67,7 @@
 ---
 
 ✨ *"I truly believe that everything will work out in the end."* ✨
-## 📊 GitHub Stats
+### 📊 GitHub Stats 
 
 <!-- GitHub Stats -->
 ![Fatma Nur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatmanurkarakoc99&show_icons=true&theme=tokyonight)
