@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Fatma Nur</h1>  
-<h3 align="center">🚀 Data Scientist | AI Enthusiast | ML & DL Explorer</h3>  
+<h3 align="center">🚀  Geomatics Engineer | Data Scientist | ML Engineer</h3>  
 
 ---
 
@@ -80,4 +80,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanurkarakoc99&layout=compact&theme=tokyonight)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=fatmanurkarakoc99&theme=tokyonight&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=fatmanurkarakoc99&theme=radical&hide_border=true)
