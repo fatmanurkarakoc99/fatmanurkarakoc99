@@ -9,6 +9,10 @@
 📊 Interested in combining **AI + Data Science** to solve real-world problems.  
 🌱 Always learning and exploring new tools in the data ecosystem.  
 
+## 📫 How to reach me
+
+📧 fatmanurkarakoc99543@gmail.com
+
 ---
 
 ### 🔧 Languages & Tools 
